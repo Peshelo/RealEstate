@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "DMSans_Regular";
+    src: local("DMSans"),     url(~assets/DMSans-Regular.ttf) format("truetype");
+}
+
+html {
+    font-family: "DMSans_Regular";
+}
